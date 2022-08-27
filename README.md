@@ -1,4 +1,4 @@
-# Pagination in React
+# Pagination with React
 
 ### Link: https://pagination-react-harsh.netlify.app/
 
